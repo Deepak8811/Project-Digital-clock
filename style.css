@@ -78,6 +78,7 @@ body {
   background: var(--clr);
   border-radius: 50%;
   box-shadow:  0 0 50px (--clr), 0 0 80px (--clr);
+  
  
   
 }
